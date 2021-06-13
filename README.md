@@ -15,7 +15,14 @@ In this project, I will be analyzing Amazon automobile reviews by using PySpark 
 
 The ETL process can be found in the Amazon_Reviews_ETL.ipynb file. The following is an image of one of the tables created in this process. 
 
+![1](https://user-images.githubusercontent.com/45697471/121825265-60178880-cc7f-11eb-9a19-813201ee95ff.png)
+
+
 Here, I will be discussing the results of the Amazon Vine reviews analysis. 
+
+![paid](https://user-images.githubusercontent.com/45697471/121825267-6443a600-cc7f-11eb-879e-b6a2015e3859.png)
+![unpaid](https://user-images.githubusercontent.com/45697471/121825271-67d72d00-cc7f-11eb-8855-8fc22884bc52.png)
+
 
 #### How many Vine reviews and non-Vine reviews were there?
 - As you can see from the image, the number of Vine reviews was 82 and the number of non-Vine reviews was 24,742 

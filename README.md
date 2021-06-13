@@ -21,6 +21,7 @@ The ETL process can be found in the Amazon_Reviews_ETL.ipynb file. The following
 Here, I will be discussing the results of the Amazon Vine reviews analysis. 
 
 ![paid](https://user-images.githubusercontent.com/45697471/121825267-6443a600-cc7f-11eb-879e-b6a2015e3859.png)
+
 ![unpaid](https://user-images.githubusercontent.com/45697471/121825271-67d72d00-cc7f-11eb-8855-8fc22884bc52.png)
 
 
@@ -34,3 +35,11 @@ Here, I will be discussing the results of the Amazon Vine reviews analysis.
 - The percentage of Vine reviews that are 5 star is: 40.24% and the percentage of non-Vine reviews that are 5 star is 51.76%
 
 ## Summary 
+
+40% of the reviews in the paid Vine program were 5 stars, whereas the unpaid non-Vine reviews had 52% five star reviews. This means there is a negativity bias for reviews in the Vine program for automobiles. Additional analysis that could be done includes: 
+- Looking at measures of central tendency (mean, median, mode) of the ratings (Vine vs non-Vine) 
+- Normalizing the datasets to create a more statistically meaningful analysis 
+
+
+### Contact 
+Email: mishaal22s@gmail.com
